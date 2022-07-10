@@ -1,0 +1,14 @@
+body {
+  background-color: #232323;
+}
+.winner {
+  color: aquamarine;
+}
+.leader {
+  color: darkgreen;
+}
+.loser {
+
+  text-decoration: line-through;
+  opacity: 0.5;
+}
